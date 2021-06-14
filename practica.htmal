@@ -1,0 +1,12 @@
+<body>
+    <form name=formulario action="../PHP/instancias.php"method="Get">
+        nombre
+        <input type=text name="n"><br>apellido paterno
+        <input type=text name="ap"><br>apellido materno
+        <input type=text name="am"><br>edad
+        <input type=number name="e"><br>
+        <input type="submit" value="enviar datos de la compu">
+    </form>
+</body>
+
+</html>
